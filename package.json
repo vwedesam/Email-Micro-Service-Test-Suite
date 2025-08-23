@@ -1,0 +1,24 @@
+{
+  "name": "email-micro-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "typescript": "^5.9.2"
+  },
+  "devDependencies": {
+    "@jest/globals": "^30.0.5",
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.5",
+    "supertest": "^7.1.4",
+    "ts-jest": "^29.4.1",
+    "ts-node": "^10.9.2"
+  }
+}
