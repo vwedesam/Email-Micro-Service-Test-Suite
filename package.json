@@ -1,9 +1,10 @@
 {
   "name": "email-micro-service",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "./app.ts",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "tsx ."
   },
   "keywords": [],
   "author": "",
@@ -11,11 +12,16 @@
   "description": "",
   "dependencies": {
     "express": "^5.1.0",
+    "tsx": "^4.20.4",
     "typescript": "^5.9.2"
   },
   "devDependencies": {
+    "@babel/core": "^7.28.3",
+    "@babel/preset-env": "^7.28.3",
+    "@babel/preset-typescript": "^7.27.1",
     "@jest/globals": "^30.0.5",
     "@types/jest": "^30.0.0",
+    "babel-jest": "^30.0.5",
     "jest": "^30.0.5",
     "supertest": "^7.1.4",
     "ts-jest": "^29.4.1",
