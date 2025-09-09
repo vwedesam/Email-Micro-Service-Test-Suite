@@ -33,8 +33,8 @@ Expected Responses:
 ## Installation & Setup
 Clone the repository:
 ```sh
-git clone [your-repo-link-here]
-cd [your-repo-folder]:
+git clone git@github.com:vwedesam/Email-Micro-Service-Test-Suite.git
+cd Email-Micro-Service-Test-Suite:
 ```
 Install dependencies:
 ```sh
