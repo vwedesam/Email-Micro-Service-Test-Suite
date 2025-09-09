@@ -34,7 +34,7 @@ Expected Responses:
 Clone the repository:
 ```sh
 git clone git@github.com:vwedesam/Email-Micro-Service-Test-Suite.git
-cd Email-Micro-Service-Test-Suite:
+cd /Email-Micro-Service-Test-Suite
 ```
 Install dependencies:
 ```sh
